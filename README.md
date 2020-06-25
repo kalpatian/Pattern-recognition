@@ -31,4 +31,3 @@ python ~/project/model.py --datapath D:/data.csv --savepath D:/ckpt --loss_func 
 ##### 2017301510011田珩之-日志文件行为模式识别
 
 ​	本次实验的实验报告。# Pattern-recognition
-# Pattern-recognition
