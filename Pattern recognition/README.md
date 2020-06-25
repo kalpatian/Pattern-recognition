@@ -27,7 +27,3 @@ python ~/project/model.py --datapath D:/data.csv --savepath D:/ckpt --loss_func 
 ##### event.csv
 
 ​	原数据集。
-
-##### 2017301510011田珩之-日志文件行为模式识别
-
-​	本次实验的实验报告。
